@@ -40,7 +40,7 @@ button:active{
     font-size: 40px;
 }
 .intro span{
-    text-shadow: 5px 5px rgb(41, 38, 38);
+    text-shadow: 3px 4px rgb(41, 38, 38);
     color: yellow;
     font-size: 50px;
 }
@@ -519,7 +519,7 @@ form  button:hover .svg-wrapper {
         font-size: 25px;
     }
     .intro span{
-        text-shadow: 3px 3px rgb(41, 38, 38);
+        text-shadow: 2px 3px rgb(41, 38, 38);
         font-size: 30px;
     }
     .intro button{
