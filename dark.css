@@ -66,6 +66,9 @@ p{
 /* button:active , button:visited , button:hover {
   border: none !important;
 } */
+#dark{
+    display:none;
+}
 .about{
     display: flex;
     align-items: center ;
