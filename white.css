@@ -40,7 +40,7 @@ button:active{
     font-size: 40px;
 }
 .intro span{
-    text-shadow: 3px 4px rgb(136, 131, 131);
+    text-shadow: 3px 4px rgb(41, 38, 38);
     color: yellow;
     font-size: 50px;
 }
@@ -523,7 +523,7 @@ footer a{
         font-size: 25px;
     }
     .intro span{
-        text-shadow: 2px 3px rgb(41, 38, 38);
+        text-shadow: 2px 2px rgb(114, 109, 109);
         font-size: 30px;
     }
     .intro button{
@@ -532,6 +532,7 @@ footer a{
         margin: 10px !important;
     }
     h2{
+      box-shadow: 1.5px 1.5px rgb(114, 109, 109);
         margin-top: 50px !important;
         font-size: 35px !important ;
     }
