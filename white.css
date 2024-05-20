@@ -82,7 +82,7 @@ button:active{
     margin: 50px !important;
 }
 body {
-  /* font-family: -apple-system, system-ui, Helvetica, Arial, sans-serif; */
+  font-family: -apple-system, system-ui, Helvetica, Arial, sans-serif;
   /* margin: 30px auto; */
   display: flex;
   justify-content: space-around;
@@ -308,6 +308,10 @@ form  button:hover .svg-wrapper {
 }
 .contact-info div{
     margin: 10px 0px;
+}
+footer a{
+  text-decoration: none;
+  color: white;
 }
 
 .theme-switch {

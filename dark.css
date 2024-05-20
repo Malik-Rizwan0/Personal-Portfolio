@@ -81,7 +81,7 @@ p{
     margin: 50px !important;
 }
 body {
-  /* font-family: -apple-system, system-ui, Helvetica, Arial, sans-serif; */
+  font-family: -apple-system, system-ui, Helvetica, Arial, sans-serif;
   /* margin: 30px auto; */
   display: flex;
   justify-content: space-around;
@@ -513,6 +513,10 @@ form  button:hover .svg-wrapper {
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
+  }
+  footer a{
+    text-decoration: none;
+    color: white;
   }
 @media screen and (max-width:575px){
     
